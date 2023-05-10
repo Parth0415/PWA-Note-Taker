@@ -38,7 +38,7 @@ node server.js
 
 ## Screenshot
 
-![Challenge 19](./images/App%20screenshot.pngraw?true "Challenge 19")
+![Challenge 19](./images/App%20screenshot.png?raw=true "Challenge 19")
 
 
 ## Contribution
