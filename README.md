@@ -2,7 +2,8 @@
 
 ## Description
 
-The text-editor application is a single page application that meets all the PWA specifications which also features some specific data techniques which help supporting browser when another options are not working. This application functions when you are offline as well.
+The text-editor application is a single page application that meets all the PWA specifications which also features some specific data techniques that helps supporting browser when another options are not working. This application functions when you are offline as well.
+
 This application is build using IndexedDB Database which, functions with the help of idb package and work as a wrapper around IndexedDB API. It will also help storing and retrieving back the data when needed.
 
 ## Table of contents
@@ -34,9 +35,10 @@ node server.js
 - To start using the application make sure you deployed the application [PWA-Note-Taker]().
 
 
+
 ## Screenshot
 
-![Challenge 19](./images/App%20screenshot.png "Challenge 19")
+![Challenge 19](./images/App%20screenshot.pngraw?true "Challenge 19")
 
 
 ## Contribution
