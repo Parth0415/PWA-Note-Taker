@@ -9,7 +9,7 @@ window.addEventListener('beforeinstallprompt', function (event) {
     console.log("kokok")
     window.deferredPrompt = event
 
-    butInstall.classList.toggle('hidden', false)
+    butInstall.style.display = "block"
 });
 
 // TODO: Implement a click event handler on the `butInstall` element
@@ -21,7 +21,7 @@ butInstall.addEventListener('click',  function () {
     }
     event.prompt()
     window.deferredPrompt=null
-    butInstall.classList.toggle('hidden', true)
+    butInstall.style.display = "hidden"
 });
 
 // TODO: Add an handler for the `appinstalled` event
